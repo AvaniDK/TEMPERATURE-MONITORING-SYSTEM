@@ -112,3 +112,7 @@ Add data logging to SD card or cloud using ESP8266.
 Upgrade to I2C LCD to save digital pins.
 
 Combine with a relay to control a fan or heater based on temperature.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/67caeacb-87fd-4eec-9d19-bcaf66a26656)
